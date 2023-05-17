@@ -2,7 +2,7 @@
 
  <div align="center">
   
-[![Ariesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=groverari&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats) 
+[![Ariesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=groverari&theme=midnight-purple&count_private=true)](https://github.com/anuraghazra/github-readme-stats) 
 
 </div>
   
